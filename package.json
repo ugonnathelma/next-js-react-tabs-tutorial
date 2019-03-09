@@ -1,0 +1,35 @@
+{
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@emotion/core": "^10.0.7",
+    "@emotion/styled": "^10.0.7",
+    "next": "^8.0.3",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4"
+  },
+  "name": "next-tutorial",
+  "version": "1.0.0",
+  "description": "Next.js and React Tabs tutorial",
+  "main": "pages/index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ugonnathelma/next-js-react-tabs-tutorial.git"
+  },
+  "keywords": [
+    "next.js",
+    "react",
+    "emotionjs",
+    "styled-components"
+  ],
+  "author": "Ugonna Thelma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ugonnathelma/next-js-react-tabs-tutorial/issues"
+  },
+  "homepage": "https://github.com/ugonnathelma/next-js-react-tabs-tutorial#readme"
+}
